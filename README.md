@@ -30,7 +30,7 @@
           <br/><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
           </div>
     </div>
-    <div style="text-align: left;">
+    <div style="text-align: left; height:200px">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=mailto:moon010103@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:moon010103@gmail.com"> </a>
           </div>  <br> 
@@ -38,8 +38,8 @@
        </div> 
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=seunggi-coding&bg_color=60,3f72af,dbe2ef&title_color=ffffff&text_color=ffffff"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seunggi-coding&layout=compact&bg_color=60,3f72af,dbe2ef&title_color=ffffff&text_color=ffffff"
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img style="height:200px;" src="https://github-readme-stats.vercel.app/api?username=seunggi-coding&bg_color=60,3f72af,dbe2ef&title_color=ffffff&text_color=ffffff"
+         /> <img style="height:200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seunggi-coding&layout=compact&bg_color=60,3f72af,dbe2ef&title_color=ffffff&text_color=ffffff"
            /> </div> 
     </div>
     
