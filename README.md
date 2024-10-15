@@ -1,20 +1,22 @@
 <div align="center">
 
-![Seunggi's CODE](https://capsule-render.vercel.app/api?type=waving&color=3f72af&height=180&text=SEUNGGI's%20CODE&animation=fadeIn&fontColor=ffffff&fontSize=60)
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3f72af&height=180&text=SEUNGGI's%20CODE&animation=fadeIn&fontColor=ffffff&fontSize=60" alt="Seunggi's CODE">
 
-<div align="left">
-  
-## 😊 Introduction
-</div>
-안녕하세요~!  
-항상 배우며, 노력하는 주니어 개발자 문승기입니다. 
-<br>
+  <div align="left">
+    
+  ## 😊 Introduction
+  </div>
 
-<div align="left">
-  
-## 🛠️ Tech Stacks 
-</div>
-<div> 
+  안녕하세요~!  
+  항상 배우며, 노력하는 주니어 개발자 문승기입니다. 
+  <br>
+
+  <div align="left">
+    
+  ## 🛠️ Tech Stacks 
+  </div>
+
+  <div> 
     <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=for-the-badge&logo=Apache Tomcat&logoColor=white">
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
@@ -40,30 +42,32 @@
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
     <br/>
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
-</div>
-<br>
+  </div>
+  <br>
 
-<div align="left">
-  
-## 🧑‍💻 Contact me
-</div>
-<div>
+  <div align="left">
+    
+  ## 🧑‍💻 Contact me
+  </div>
+
+  <div>
     <a href="mailto:moon010103@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:moon010103@gmail.com" style="height: 30px;">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:moon010103@gmail.com">
     </a>
     <a href="https://hits.seeyoufarm.com">
-        <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseunggi-coding%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false" style="height: 30px;"/>
+      <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseunggi-coding%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/>
     </a>
-</div>
-<br>
+  </div>
+  <br>
 
-<div align="left">
-  
-## 🏅 Stats
-</div>
-<div>
+  <div align="left">
+    
+  ## 🏅 Stats
+  </div>
+
+  <div>
     <img src="https://github-readme-stats.vercel.app/api?username=seunggi-coding&bg_color=60,3f72af,dbe2ef&title_color=ffffff&text_color=ffffff" style="height: 180px;" /> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seunggi-coding&layout=compact&bg_color=60,3f72af,dbe2ef&title_color=ffffff&text_color=ffffff" style="height: 180px;" /> 
-</div>
+  </div>
 
 </div>
