@@ -3,6 +3,7 @@
 ## 😊 Introduction
 안녕하세요~!  
 항상 배우며, 노력하는 주니어 개발자 문승기입니다. 
+<br>
 
 ## 🛠️ Tech Stacks 
 <div align= "center"> 
@@ -32,6 +33,7 @@
     <br/>
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
 </div>
+<br>
 
 ## 🧑‍💻 Contact me 
 <div align="center" style="display: inline-block;">
@@ -42,6 +44,7 @@
         <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseunggi-coding%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/>
     </a>
 </div>
+<br>
 
 ## 🏅 Stats 
 <div align="center" style="display: inline-block;">
