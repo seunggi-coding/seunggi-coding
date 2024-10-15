@@ -36,18 +36,18 @@
 <br>
 
 ## 🧑‍💻 Contact me 
-<p align="center">
+<div align="center">
     <a href="mailto:moon010103@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:moon010103@gmail.com">
     </a>
     <a href="https://hits.seeyoufarm.com">
         <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseunggi-coding%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/>
     </a>
-</p>
+</div>
 <br>
 
 ## 🏅 Stats 
-<div align="center" style="display: inline-block;">
-    <img style="height:200px;" src="https://github-readme-stats.vercel.app/api?username=seunggi-coding&bg_color=60,3f72af,dbe2ef&title_color=ffffff&text_color=ffffff"/> 
-    <img style="height:200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seunggi-coding&layout=compact&bg_color=60,3f72af,dbe2ef&title_color=ffffff&text_color=ffffff"/> 
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=seunggi-coding&bg_color=60,3f72af,dbe2ef&title_color=ffffff&text_color=ffffff" style="height:200px;" /> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seunggi-coding&layout=compact&bg_color=60,3f72af,dbe2ef&title_color=ffffff&text_color=ffffff" style="height:200px;" /> 
 </div>
