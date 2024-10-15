@@ -3,7 +3,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=3f72af&height=180&text=SEUNGGI's%20CODE&animation=fadeIn&fontColor=ffffff&fontSize=60" alt="Seunggi's CODE">
 
   <div align="left">
-    ## 😊 Introduction
+    
+  ## 😊 Introduction
   </div>
 
   안녕하세요~!  
@@ -11,7 +12,8 @@
   <br>
 
   <div align="left">
-    ## 🛠️ Tech Stacks 
+    
+  ## 🛠️ Tech Stacks 
   </div>
 
   <div> 
@@ -44,21 +46,23 @@
   <br>
 
   <div align="left">
-    ## 🧑‍💻 Contact me
+    
+  ## 🧑‍💻 Contact me
   </div>
 
   <div>
     <a href="mailto:moon010103@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:moon010103@gmail.com" style="vertical-align: middle;">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:moon010103@gmail.com">
     </a>
     <a href="https://hits.seeyoufarm.com">
-      <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseunggi-coding%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false" style="vertical-align: middle;"/>
+      <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseunggi-coding%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/>
     </a>
   </div>
   <br>
 
   <div align="left">
-    ## 🏅 Stats
+    
+  ## 🏅 Stats
   </div>
 
   <div>
