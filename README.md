@@ -2,12 +2,18 @@
 
 ![Seunggi's CODE](https://capsule-render.vercel.app/api?type=waving&color=3f72af&height=180&text=SEUNGGI's%20CODE&animation=fadeIn&fontColor=ffffff&fontSize=60)
 
+<div align="left">
+  
 ## 😊 Introduction
+</div>
 안녕하세요~!  
 항상 배우며, 노력하는 주니어 개발자 문승기입니다. 
 <br>
 
+<div align="left">
+  
 ## 🛠️ Tech Stacks 
+</div>
 <div> 
     <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=for-the-badge&logo=Apache Tomcat&logoColor=white">
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">
@@ -37,7 +43,10 @@
 </div>
 <br>
 
-## 🧑‍💻 Contact me 
+<div align="left">
+  
+## 🧑‍💻 Contact me
+</div>
 <div>
     <a href="mailto:moon010103@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:moon010103@gmail.com">
@@ -48,7 +57,10 @@
 </div>
 <br>
 
-## 🏅 Stats 
+<div align="left">
+  
+## 🏅 Stats
+</div>
 <div>
     <img src="https://github-readme-stats.vercel.app/api?username=seunggi-coding&bg_color=60,3f72af,dbe2ef&title_color=ffffff&text_color=ffffff" style="height:200px;" /> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seunggi-coding&layout=compact&bg_color=60,3f72af,dbe2ef&title_color=ffffff&text_color=ffffff" style="height:200px;" /> 
