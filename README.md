@@ -62,8 +62,8 @@
 ## 🏅 Stats
 </div>
 <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=seunggi-coding&bg_color=60,3f72af,dbe2ef&title_color=ffffff&text_color=ffffff" /> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seunggi-coding&layout=compact&bg_color=60,3f72af,dbe2ef&title_color=ffffff&text_color=ffffff" /> 
+    <img src="https://github-readme-stats.vercel.app/api?username=seunggi-coding&bg_color=60,3f72af,dbe2ef&title_color=ffffff&text_color=ffffff" style="height: 180px;" /> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seunggi-coding&layout=compact&bg_color=60,3f72af,dbe2ef&title_color=ffffff&text_color=ffffff" style="height: 180px;" /> 
 </div>
 
 </div>
